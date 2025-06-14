@@ -1,7 +1,8 @@
-Frontend Mentor - QR Code Component Solution
+**Frontend Mentor - QR Code Component Solution**
+
 This is my solution to the QR code component challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects with professional designs.
 
-Table of contents
+**Table of contents
 - Overview
 - Screenshot
 - Links
@@ -11,28 +12,32 @@ Table of contents
 - Continued Development
 - Useful Resources
 - Author
-- Overview
+- Overview**
 
-###Screenshot
-![Mobile View](<img width="481" alt="image" src="https://github.com/user-attachments/assets/f0050597-f313-4862-bb01-b92f84871537" />
-)
-![Desktop View](https://github.com/user-attachments/assets/f0050597-f313-4862-bb01-b92f84871537)
+**Screenshot**
 
-###Links
-- Solution URL: Add solution URL here
+- ![Mobile View](<img width="481" alt="image" src="https://github.com/user-attachments/assets/f0050597-f313-4862-bb01-b92f84871537" />)
 
-- Live Site URL: Add live site URL here
+- ![Desktop View](https://github.com/user-attachments/assets/f0050597-f313-4862-bb01-b92f84871537)
 
-###My Process
-**Built With
+**Links**
+- Solution URL: (https://github.com/codewthv/qr-code-component-main.git)
+
+- Live Site URL: (https://codewthv.github.io/qr-code-component-main/)
+
+**My Process**
+
+**Built With**
+
 - Semantic HTML5
 - Tailwind CSS via CDN
 - Mobile-first workflow
 
-###What I Learned
+**What I Learned**
+
 This project helped me get familiar with using Tailwind CSS through the CDN method. It made my styling process much faster and more structured. I was able to apply utility classes directly to HTML elements and avoid writing separate CSS rules.
 
-A few things I learned:
+**A few things I learned:**
 
 <!-- Centering using flexbox and Tailwind utilities -->
 <div class="m-auto bg-gray-100">
@@ -42,9 +47,11 @@ A few things I learned:
     <p class="text-sm text-gray-500 mt-2">Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
   </div>
 </div>
+
+
 Tailwind helped me keep the styling inline and focused, especially with classes like rounded-lg, shadow-lg, and text-center.
 
-###Continued Development
+**Continued Development**
 I plan to continue practicing with Tailwind CSS, especially:
 
 - Responsive design and breakpoints
@@ -55,11 +62,11 @@ I plan to continue practicing with Tailwind CSS, especially:
 
 - Also, I want to explore using Tailwind with frameworks like React or Vue in the future.
 
-###Useful Resources
+**Useful Resources**
 - Tailwind CSS Documentation – The official docs were very clear and helpful. It was my main reference for learning utility classes.
 - Frontend Mentor's Community – Browsing through others’ solutions gave me good ideas for structure and layout.
 
-###Author
+**Author**
 GitHub – @codewthv
 
 Frontend Mentor – @codewthv
