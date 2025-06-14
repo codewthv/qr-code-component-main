@@ -14,8 +14,9 @@ Table of contents
 - Overview
 
 ###Screenshot
-![Mobile View](image.png)
-![Desktop View](image-1.png)
+![Mobile View](<img width="481" alt="image" src="https://github.com/user-attachments/assets/f0050597-f313-4862-bb01-b92f84871537" />
+)
+![Desktop View](https://github.com/user-attachments/assets/f0050597-f313-4862-bb01-b92f84871537)
 
 ###Links
 - Solution URL: Add solution URL here
@@ -59,8 +60,6 @@ I plan to continue practicing with Tailwind CSS, especially:
 - Frontend Mentor's Community – Browsing through others’ solutions gave me good ideas for structure and layout.
 
 ###Author
-GitHub – @yourusername
+GitHub – @codewthv
 
-Frontend Mentor – @yourusername
-
-Twitter – @yourusername
+Frontend Mentor – @codewthv
